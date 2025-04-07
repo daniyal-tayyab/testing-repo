@@ -33,7 +33,7 @@ function FAQsPage() {
 						{/* sub section */}
 						<div className="flex flex-col space-y-2">
 							<h2 className="text-clr-secondary-bright font-semibold text-xl">
-								1 - What is InnovationChain?
+								1 - What is trustchain?
 							</h2>
 							<p className="mt-2 ml-5 w-[80%]">
 								Trust Chain Coin is a next-gen global digital currency that is set to
@@ -148,7 +148,7 @@ function FAQsPage() {
 										className="ml-2 text-clr-main-bright"
 										href="https://innivationchain.co/"
 									>
-										www.innovationchain.co
+										www.trustchain.co
 									</a>{" "}
 								</li>
 								<li>Click on “Invest Now”</li>
@@ -171,9 +171,9 @@ function FAQsPage() {
 								blogs
 								<a
 									className="ml-2 text-clr-main-bright"
-									href="https://medium.com/@innovationchain"
+									href="https://medium.com/@trustchain"
 								>
-									https://medium.com/@innovationchain
+									https://medium.com/@trustchain
 								</a>
 							</p>
 						</div>

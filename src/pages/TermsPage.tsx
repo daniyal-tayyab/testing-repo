@@ -43,8 +43,8 @@ function TermsPage() {
 								govern your access to and use of any website published by the
 								Company, including, but not limited to, any content,
 								functionality, and services offered on or through
-								www.innovationchain.co, www.tol.network, www.tolcash.com,
-								www.innovationchain.net, www.tolscan.com, www.tolscan.io (the
+								www.trustchain.co, www.tol.network, www.tolcash.com,
+								www.trustchain.net, www.tolscan.com, www.tolscan.io (the
 								“Websites”).
 							</p>
 
@@ -546,7 +546,7 @@ function TermsPage() {
 								The Websites are operated by the Company. All other feedback,
 								comments, requests for technical support and other
 								communications relating to the Websites should be directed to:
-								support@innovationchain.co.
+								support@trustchain.co.
 							</p>
 						</div>
 					</div>

@@ -33,7 +33,7 @@ function AgreementPage() {
 						{/* sub section */}
 						<div className="flex flex-col space-y-2">
 							<p className="mt-2 ml-5 w-full">
-								This is an agreement between Phydias SA (Innovationchain.co”, “we”,
+								This is an agreement between Phydias SA (trustchain.co”, “we”,
 								“us”, or “our”) a company registered in Switzerland and you
 								(together with Trust Chain Coin.com, the “Parties” and each a “Party”).
 								By using the Trust Chain Coin.com website (the “Site”) and any services
@@ -43,14 +43,14 @@ function AgreementPage() {
 								well as our{" "}
 								<a
 									className="text-clr-main-bright font-bold underline"
-									href="https://innovationchain.co/privacy"
+									href="https://trustchain.co/privacy"
 								>
 									Privacy Policy
 								</a>{" "}
 								and{" "}
 								<a
 									className="text-clr-main-bright font-bold underline"
-									href="https://innovationchain.co/terms"
+									href="https://trustchain.co/terms"
 								>
 									Terms of Use
 								</a>
@@ -81,14 +81,14 @@ function AgreementPage() {
 								User Agreement, including the{" "}
 								<a
 									className="text-clr-main-bright font-bold underline"
-									href="https://innovationchain.co/privacy"
+									href="https://trustchain.co/privacy"
 								>
 									Privacy Policy
 								</a>{" "}
 								and{" "}
 								<a
 									className="text-clr-main-bright font-bold underline"
-									href="https://innovationchain.co/terms"
+									href="https://trustchain.co/terms"
 								>
 									Terms of Use
 								</a>{" "}
@@ -394,19 +394,19 @@ function AgreementPage() {
 								6.2 Disclaimer of Warranties.
 							</h4>
 							<p className="mt-2 ml-5 w-[80%]">
-								INNOVATIONCHAIN.CO DISCLAIMS ANY AND ALL PROMISES, REPRESENTATIONS AND
+								trustchain.CO DISCLAIMS ANY AND ALL PROMISES, REPRESENTATIONS AND
 								WARRANTIES, WHETHER EXPRESS, IMPLIED OR STATUTORY, INCLUDING,
 								BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY, FITNESS
 								FOR A PARTICULAR PURPOSE, DATA ACCURACY, SYSTEM INTEGRATION,
 								TITLE, NON-INFRINGEMENT AND/OR QUIET ENJOYMENT, AND ANY SERVICES
-								PROVIDED BY INNOVATIONCHAIN.CO ARE PROVIDED “AS IS” AND “AS AVAILABLE.”
+								PROVIDED BY trustchain.CO ARE PROVIDED “AS IS” AND “AS AVAILABLE.”
 								EXCEPT AS EXPRESSLY PROVIDED HEREIN, YOU ACKNOWLEDGE THAT
-								INNOVATIONCHAIN.CO MAKES NO WARRANTIES UNDER THIS AGREEMENT DIRECTLY FOR
-								THE BENEFIT OF ANY END USER, AND THAT INNOVATIONCHAIN.CO’S OBLIGATIONS
+								trustchain.CO MAKES NO WARRANTIES UNDER THIS AGREEMENT DIRECTLY FOR
+								THE BENEFIT OF ANY END USER, AND THAT trustchain.CO’S OBLIGATIONS
 								UNDER THIS AGREEMENT ARE FOR THE BENEFIT OF YOU ONLY, AND NOT
 								FOR THE BENEFIT OF ANY OTHER PERSON. IN ENTERING INTO THIS
 								AGREEMENT, YOU REPRESENT THAT YOU HAVE NOT RELIED UPON ANY
-								REPRESENTATION OR WARRANTY OF INNOVATIONCHAIN OR ITS AFFILIATES EXCEPT
+								REPRESENTATION OR WARRANTY OF trustchain OR ITS AFFILIATES EXCEPT
 								AS EXPRESSLY SET FORTH IN THIS AGREEMENT. WE DO NOT MAKE ANY
 								REPRESENTATIONS OR WARRANTIES THAT ACCESS TO THE SERVICES SHALL
 								BE CONTINUOUS, UNINTERRUPTED, TIMELY, OR ERROR-FREE.
@@ -415,14 +415,14 @@ function AgreementPage() {
 								6.3 Limitation of Liability.
 							</h4>
 							<p className="mt-2 ml-5 w-[80%]">
-								IN NO EVENT SHALL INNOVATIONCHAIN, ITS AFFILIATES AND SERVICE PROVIDERS,
+								IN NO EVENT SHALL trustchain, ITS AFFILIATES AND SERVICE PROVIDERS,
 								OR ANY OF THEIR RESPECTIVE OFFICERS, DIRECTORS, AGENTS,
 								EMPLOYEES OR REPRESENTATIVES, BE LIABLE FOR ANY LOST PROFITS OR
 								ANY SPECIAL, INCIDENTAL, INDIRECT, INTANGIBLE, OR CONSEQUENTIAL
 								DAMAGES, WHETHER BASED IN CONTRACT, TORT, NEGLIGENCE, STRICT
 								LIABILITY, OR OTHERWISE, ARISING OUT OF OR IN CONNECTION WITH
 								AUTHORIZED OR UNAUTHORIZED USE OF THE SERVICES, OR THIS
-								AGREEMENT, EVEN IF AN AUTHORIZED REPRESENTATIVE OF INNOVATIONCHAIN.CO
+								AGREEMENT, EVEN IF AN AUTHORIZED REPRESENTATIVE OF trustchain.CO
 								HAS BEEN ADVISED OF, KNEW OF, OR SHOULD HAVE KNOWN OF THE
 								POSSIBILITY OF SUCH DAMAGES. FOR EXAMPLE (AND WITHOUT LIMITING
 								THE SCOPE OF THE PRECEDING SENTENCE), YOU MAY NOT RECOVER FOR
@@ -574,7 +574,7 @@ function AgreementPage() {
 								7.7 Contact Information.
 							</h4>
 							<p className="mt-2 ml-5 w-[80%]">
-								You may contact Trust Chain Coin.co via email at support@innovationchain.co.
+								You may contact Trust Chain Coin.co via email at support@trustchain.co.
 							</p>
 						</div>
 

@@ -39,8 +39,8 @@ function PrivacyPage() {
 								Phydias SA, located at rue des Pâquis 8 1202 Genève, Switzerland
 								(the “Company”, “we”, or “us”) is the operator of any Website
 								published by the Company, including, but not limited to,
-								www.innovationchain.co, www.tol.network, www.tolcash.com,
-								www.innovationchain.net, www.tolscan.com, www.tolscan.io (the
+								www.trustchain.co, www.tol.network, www.tolcash.com,
+								www.trustchain.net, www.tolscan.com, www.tolscan.io (the
 								“Websites”).
 							</p>
 							<p className="mt-2 ml-5 w-[80%]">
@@ -72,7 +72,7 @@ function PrivacyPage() {
 							</h2>
 							<p className="mt-2 ml-5 w-[80%]">
 								For any matters relating to data protection you may contact
-								info@innovationchain.co in writing by e-mail.
+								info@trustchain.co in writing by e-mail.
 							</p>
 						</div>
 
@@ -221,7 +221,7 @@ function PrivacyPage() {
 								The accuracy of your information is important to us. If you
 								change your email address, or any of the other information we
 								hold is inaccurate or out of date, please email us at
-								support@innovationchain.co. You have the right to ask for a copy of the
+								support@trustchain.co. You have the right to ask for a copy of the
 								information Trust Chain Coin holds about you.
 							</p>
 						</div>
@@ -256,7 +256,7 @@ function PrivacyPage() {
 								third parties. The user has the right to withdraw his or her
 								consent at any time, by unsubscribing from the newsletter. To do
 								so, simply unsubscribe via the link in the newsletter or send an
-								email to support@innovationchain.co. The withdrawal of consent shall not
+								email to support@trustchain.co. The withdrawal of consent shall not
 								affect the lawfulness of processing based on consent before its
 								withdrawal.
 							</p>

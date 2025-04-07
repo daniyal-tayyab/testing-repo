@@ -84,12 +84,12 @@ export const socialList = [
 	{
 		id: "socialList_1",
 		icon: <FaLinkedinIn className="w-5 h-5 font-bold text-4xl" />,
-		href: "https://www.linkedin.com/company/innovationchain/",
+		href: "https://www.linkedin.com/company/trustchain/",
 	},
 	{
 		id: "socialList_2",
 		icon: <FaInstagram className="w-5 h-5 font-bold text-4xl" />,
-		href: "https://www.instagram.com/innovationchain/",
+		href: "https://www.instagram.com/trustchain/",
 	},
 	{
 		id: "socialList_3",
@@ -152,7 +152,7 @@ export const footerLinks = [
 			{
 				id: "footer_col_2_3",
 				text: "Blogs",
-				href: "https://medium.com/@innovationchain",
+				href: "https://medium.com/@trustchain",
 			},
 			{
 				id: "footer_col_2_4",
@@ -201,12 +201,12 @@ export const projects = [
 			{
 				id: "socialList_3_1",
 				icon: <FaLinkedinIn className="w-5 h-5 font-bold text-4xl" />,
-				href: "https://www.linkedin.com/company/innovationchain/",
+				href: "https://www.linkedin.com/company/trustchain/",
 			},
 			{
 				id: "socialList_3_2",
 				icon: <FaInstagram className="w-5 h-5 font-bold text-4xl" />,
-				href: "https://www.instagram.com/innovationchain/",
+				href: "https://www.instagram.com/trustchain/",
 			},
 			{
 				id: "socialList_3_3",
@@ -226,12 +226,12 @@ export const projects = [
 			{
 				id: "socialList_1_1",
 				icon: <FaLinkedinIn className="w-5 h-5 font-bold text-4xl" />,
-				href: "https://www.linkedin.com/company/innovationchain/",
+				href: "https://www.linkedin.com/company/trustchain/",
 			},
 			{
 				id: "socialList_1_2",
 				icon: <FaInstagram className="w-5 h-5 font-bold text-4xl" />,
-				href: "https://www.instagram.com/innovationchain/",
+				href: "https://www.instagram.com/trustchain/",
 			},
 			{
 				id: "socialList_1_3",
@@ -251,12 +251,12 @@ export const projects = [
 			{
 				id: "socialList_6_1",
 				icon: <FaLinkedinIn className="w-5 h-5 font-bold text-4xl" />,
-				href: "https://www.linkedin.com/company/innovationchain/",
+				href: "https://www.linkedin.com/company/trustchain/",
 			},
 			{
 				id: "socialList_6_2",
 				icon: <FaInstagram className="w-5 h-5 font-bold text-4xl" />,
-				href: "https://www.instagram.com/innovationchain/",
+				href: "https://www.instagram.com/trustchain/",
 			},
 			{
 				id: "socialList_6_3",
@@ -276,12 +276,12 @@ export const projects = [
 			{
 				id: "socialList_2_1",
 				icon: <FaLinkedinIn className="w-5 h-5 font-bold text-4xl" />,
-				href: "https://www.linkedin.com/company/innovationchain/",
+				href: "https://www.linkedin.com/company/trustchain/",
 			},
 			{
 				id: "socialList_2_2",
 				icon: <FaInstagram className="w-5 h-5 font-bold text-4xl" />,
-				href: "https://www.instagram.com/innovationchain/",
+				href: "https://www.instagram.com/trustchain/",
 			},
 			{
 				id: "socialList_2_3",
@@ -301,12 +301,12 @@ export const projects = [
 			{
 				id: "socialList_7_1",
 				icon: <FaLinkedinIn className="w-5 h-5 font-bold text-4xl" />,
-				href: "https://www.linkedin.com/company/innovationchain/",
+				href: "https://www.linkedin.com/company/trustchain/",
 			},
 			{
 				id: "socialList_7_2",
 				icon: <FaInstagram className="w-5 h-5 font-bold text-4xl" />,
-				href: "https://www.instagram.com/innovationchain/",
+				href: "https://www.instagram.com/trustchain/",
 			},
 			{
 				id: "socialList_7_3",
@@ -326,12 +326,12 @@ export const projects = [
 			{
 				id: "socialList_9_1",
 				icon: <FaLinkedinIn className="w-5 h-5 font-bold text-4xl" />,
-				href: "https://www.linkedin.com/company/innovationchain/",
+				href: "https://www.linkedin.com/company/trustchain/",
 			},
 			{
 				id: "socialList_9_2",
 				icon: <FaInstagram className="w-5 h-5 font-bold text-4xl" />,
-				href: "https://www.instagram.com/innovationchain/",
+				href: "https://www.instagram.com/trustchain/",
 			},
 			{
 				id: "socialList_9_3",
@@ -351,12 +351,12 @@ export const projects = [
 			{
 				id: "socialList_5_1",
 				icon: <FaLinkedinIn className="w-5 h-5 font-bold text-4xl" />,
-				href: "https://www.linkedin.com/company/innovationchain/",
+				href: "https://www.linkedin.com/company/trustchain/",
 			},
 			{
 				id: "socialList_5_2",
 				icon: <FaInstagram className="w-5 h-5 font-bold text-4xl" />,
-				href: "https://www.instagram.com/innovationchain/",
+				href: "https://www.instagram.com/trustchain/",
 			},
 			{
 				id: "socialList_5_3",
@@ -376,12 +376,12 @@ export const projects = [
 			{
 				id: "socialList_9_1",
 				icon: <FaLinkedinIn className="w-5 h-5 font-bold text-4xl" />,
-				href: "https://www.linkedin.com/company/innovationchain/",
+				href: "https://www.linkedin.com/company/trustchain/",
 			},
 			{
 				id: "socialList_9_2",
 				icon: <FaInstagram className="w-5 h-5 font-bold text-4xl" />,
-				href: "https://www.instagram.com/innovationchain/",
+				href: "https://www.instagram.com/trustchain/",
 			},
 			{
 				id: "socialList_9_3",
@@ -401,12 +401,12 @@ export const projects = [
 			{
 				id: "socialList_9_1",
 				icon: <FaLinkedinIn className="w-5 h-5 font-bold text-4xl" />,
-				href: "https://www.linkedin.com/company/innovationchain/",
+				href: "https://www.linkedin.com/company/trustchain/",
 			},
 			{
 				id: "socialList_9_2",
 				icon: <FaInstagram className="w-5 h-5 font-bold text-4xl" />,
-				href: "https://www.instagram.com/innovationchain/",
+				href: "https://www.instagram.com/trustchain/",
 			},
 			{
 				id: "socialList_9_3",
@@ -426,12 +426,12 @@ export const projects = [
 			{
 				id: "socialList_8_1",
 				icon: <FaLinkedinIn className="w-5 h-5 font-bold text-4xl" />,
-				href: "https://www.linkedin.com/company/innovationchain/",
+				href: "https://www.linkedin.com/company/trustchain/",
 			},
 			{
 				id: "socialList_8_2",
 				icon: <FaInstagram className="w-5 h-5 font-bold text-4xl" />,
-				href: "https://www.instagram.com/innovationchain/",
+				href: "https://www.instagram.com/trustchain/",
 			},
 			{
 				id: "socialList_8_3",
@@ -451,12 +451,12 @@ export const projects = [
 			{
 				id: "socialList_9_1",
 				icon: <FaLinkedinIn className="w-5 h-5 font-bold text-4xl" />,
-				href: "https://www.linkedin.com/company/innovationchain/",
+				href: "https://www.linkedin.com/company/trustchain/",
 			},
 			{
 				id: "socialList_9_2",
 				icon: <FaInstagram className="w-5 h-5 font-bold text-4xl" />,
-				href: "https://www.instagram.com/innovationchain/",
+				href: "https://www.instagram.com/trustchain/",
 			},
 			{
 				id: "socialList_9_3",
@@ -477,12 +477,12 @@ export const projects = [
 			{
 				id: "socialList_4_1",
 				icon: <FaLinkedinIn className="w-5 h-5 font-bold text-4xl" />,
-				href: "https://www.linkedin.com/company/innovationchain/",
+				href: "https://www.linkedin.com/company/trustchain/",
 			},
 			{
 				id: "socialList_4_2",
 				icon: <FaInstagram className="w-5 h-5 font-bold text-4xl" />,
-				href: "https://www.instagram.com/innovationchain/",
+				href: "https://www.instagram.com/trustchain/",
 			},
 			{
 				id: "socialList_4_3",
@@ -502,12 +502,12 @@ export const projects = [
 			{
 				id: "socialList_9_1",
 				icon: <FaLinkedinIn className="w-5 h-5 font-bold text-4xl" />,
-				href: "https://www.linkedin.com/company/innovationchain/",
+				href: "https://www.linkedin.com/company/trustchain/",
 			},
 			{
 				id: "socialList_9_2",
 				icon: <FaInstagram className="w-5 h-5 font-bold text-4xl" />,
-				href: "https://www.instagram.com/innovationchain/",
+				href: "https://www.instagram.com/trustchain/",
 			},
 			{
 				id: "socialList_9_3",
@@ -527,12 +527,12 @@ export const projects = [
 			{
 				id: "socialList_9_1",
 				icon: <FaLinkedinIn className="w-5 h-5 font-bold text-4xl" />,
-				href: "https://www.linkedin.com/company/innovationchain/",
+				href: "https://www.linkedin.com/company/trustchain/",
 			},
 			{
 				id: "socialList_9_2",
 				icon: <FaInstagram className="w-5 h-5 font-bold text-4xl" />,
-				href: "https://www.instagram.com/innovationchain/",
+				href: "https://www.instagram.com/trustchain/",
 			},
 			{
 				id: "socialList_9_3",
@@ -552,12 +552,12 @@ export const projects = [
 			{
 				id: "socialList_9_1",
 				icon: <FaLinkedinIn className="w-5 h-5 font-bold text-4xl" />,
-				href: "https://www.linkedin.com/company/innovationchain/",
+				href: "https://www.linkedin.com/company/trustchain/",
 			},
 			{
 				id: "socialList_9_2",
 				icon: <FaInstagram className="w-5 h-5 font-bold text-4xl" />,
-				href: "https://www.instagram.com/innovationchain/",
+				href: "https://www.instagram.com/trustchain/",
 			},
 			{
 				id: "socialList_9_3",
