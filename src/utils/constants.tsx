@@ -139,11 +139,11 @@ export const footerLinks = [
 				text: "About",
 				href: "/about",
 			},
-			// {
-			// 	id: "footer_col_2_5",
-			// 	text: "White Paper",
-			// 	href: "/whitepaper",
-			// },
+			{
+				id: "footer_col_2_5",
+				text: "White Paper",
+				href: "/whitepaper",
+			},
 			{
 				id: "footer_col_2_2",
 				text: "Careers",

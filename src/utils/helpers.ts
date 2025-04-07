@@ -15,7 +15,7 @@ export const getLocalStorage = (variableName : string) =>{
 
 
 export const handleDownload = () => {
-    const filePath = "/docs/InnovationChain-Whitepaper.pdf"; // Relative path to the file
+    const filePath = "/docs/Innovation_Chain_Whitepaper.pdf"; // Relative path to the file
 
     // Create a link element
     const link = document.createElement("a");
