@@ -158,7 +158,7 @@ function Sidebar() {
 							</Link>
 						</li>
 					)}
-					<li className="md:my-0 text-3xl font-bold">
+					{/* <li className="md:my-0 text-3xl font-bold">
 						<Link
 							className="block text-left text-clr-off-white capitalize text-base tracking-widest py-4 px-6  transition duration-300 ease-linear"
 							to={"/help"}
@@ -172,7 +172,7 @@ function Sidebar() {
 								</span>
 							)}
 						</Link>
-					</li>
+					</li> */}
 				</ul>
 				<button
 					onClick={handleconnect}
