@@ -1,6 +1,6 @@
 # InnovationChain_app
 
-Demo for simulate Frontend of innovation Chain website, built in React.js
+Demo for simulate Frontend of Trust Chain website, built in React.js
 
 ## To run this code:
 

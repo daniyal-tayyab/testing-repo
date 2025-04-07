@@ -126,10 +126,10 @@ function VerifyPage() {
 						<img
 							className="-ml-4 sm:w-20 w-12 sm:h-20 h-12"
 							src={logo}
-							alt="Innovation Chain"
+							alt="Trust Chain"
 						/>
 						<span className="text-clr-main-bright text-3xl font-Ubuntu font-normal">
-							Innovation Chain
+							Trust Chain
 						</span>
 					</Link>
 					<span className="text-lg text-clr-off-white">

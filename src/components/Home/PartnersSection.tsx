@@ -19,7 +19,7 @@ function PartnersSection() {
 			<img
 				className="absolute -z-250 top-[50px] left-0 w-full h-[450px] opacity-50"
 				src={bgPartner}
-				alt="Innovation Chain"
+				alt="Trust Chain"
 			/>
 			<div className="bg-clr-secondary-bright py-4 w-full">
 				<div className="mx-auto my-0 lg:max-w-max-custom max-w-max-width w-90vw grid lg:grid-cols-5 md:grid-cols-3 grid-cols-2 gap-5 py-6">

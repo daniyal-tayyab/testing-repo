@@ -9,7 +9,7 @@ function FeaturesSection() {
 			<img
 				className="absolute top-5 opacity-50 -z-1 w-[41%]"
 				src={base}
-				alt="Innovation Chain"
+				alt="Trust Chain"
 			/>
 			{/* bolb */}
 			<div
@@ -23,9 +23,9 @@ function FeaturesSection() {
 					Our Features
 				</h1>
 				<p className="md:text-xl textlg font-normal text-clr-off-white w-4/5 ml-2">
-					Innovation Chain is a multi-utility cryptocurrency, offering a range of features
+					Trust Chain is a multi-utility cryptocurrency, offering a range of features
 					that prioritize security, privacy, and user experience. These features
-					are key in making Innovation Chain Coin truly innovative.
+					are key in making Trust Chain Coin truly innovative.
 				</p>
 				<div className="flex flex-col space-y-12 items-center justify-center relative">
 					{/* row */}
@@ -35,7 +35,7 @@ function FeaturesSection() {
 						</span>
 						<h3 className="font-bold text-2xl">Multi-Utility Coin</h3>
 						<span className="text-sm">
-							Beyond just a traditional digital currency, Innovation Chain offers travel
+							Beyond just a traditional digital currency, Trust Chain offers travel
 							benefits, cash-back rewards, secure transactions, and more.
 						</span>
 					</div>
@@ -47,7 +47,7 @@ function FeaturesSection() {
 						<h3 className="font-bold text-2xl">Secure and Private</h3>
 						<span className="text-sm">
 							Advanced encryption and stringent privacy policies safeguard
-							personal data and transactions within the Innovation Chain ecosystem.
+							personal data and transactions within the Trust Chain ecosystem.
 						</span>
 					</div>
 					{/* row */}
@@ -57,7 +57,7 @@ function FeaturesSection() {
 						</span>
 						<h3 className="font-bold text-2xl">Partnerships and Benefits</h3>
 						<span className="text-sm">
-							Innovation Chain's flexible partnerships across the ecosystem provide exclusive
+							Trust Chain's flexible partnerships across the ecosystem provide exclusive
 							rewards, cashback, discounts, and unique experiences.
 						</span>
 					</div>
@@ -68,7 +68,7 @@ function FeaturesSection() {
 						</span>
 						<h3 className="font-bold text-2xl">User-Friendly Experience</h3>
 						<span className="text-sm">
-							Innovation Chain offers an intuitive platform and interface for easy navigation
+							Trust Chain offers an intuitive platform and interface for easy navigation
 							and engagement with its features and services.
 						</span>
 					</div>

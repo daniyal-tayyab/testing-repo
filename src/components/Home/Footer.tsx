@@ -27,14 +27,14 @@ function Footer() {
 							<img
 								className="sm:w-14 w-12 sm:h-14 h-12"
 								src={logo}
-								alt="Innovation Chain"
+								alt="Trust Chain"
 							/>
 							<span className="text-clr-main-bright text-xl font-Ubuntu font-normal">
-								Innovation Chain
+								Trust Chain
 							</span>
 						</Link>
 						<p className="col-span-5 text-clr-off-white text-base lg:w-4/5 md:w-4/5 w-10/12 text-start">
-							Unlock the future of digital investment with Innovation Chain Coin. Join the
+							Unlock the future of digital investment with Trust Chain Coin. Join the
 							revolution and invest in the next generation of cryptocurrency
 							today.
 						</p>
@@ -98,7 +98,7 @@ function Footer() {
 						<span>
 							<FaRegCopyright />
 						</span>
-						<span>{new Date()?.getFullYear()} Innovation Chain</span>
+						<span>{new Date()?.getFullYear()} Trust Chain</span>
 					</div>
 					<div className="lg:col-span-8 md:col-span-7 col-span-12 flex sm:flex-row flex-col sm:space-y-0 space-y-5 items-start justify-between sm:w-[90%] sm:mx-auto sm:order-2 order-1">
 						<p style={{opacity: '0'}} className="w-3/5 px-3 sm:py-0 border-l-2 border-clr-secondary-bright	">

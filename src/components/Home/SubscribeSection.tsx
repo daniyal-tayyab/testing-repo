@@ -60,7 +60,7 @@ function SubscribeSection() {
 						<h1 className="text-3xl font-bold">Join our Newsletter</h1>
 						<p className="text-lg font-normal w-4/5 text-clr-off-white">
 							Subscribe to our newsletter and be the first to receive exclusive
-							updates about Innovation Chain Coin.
+							updates about Trust Chain Coin.
 						</p>
 					</div>
 					<form className="md:w-1/2 w-full" onSubmit={handleSubmit}>

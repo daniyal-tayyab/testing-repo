@@ -35,8 +35,8 @@ function AgreementPage() {
 							<p className="mt-2 ml-5 w-full">
 								This is an agreement between Phydias SA (Innovationchain.co”, “we”,
 								“us”, or “our”) a company registered in Switzerland and you
-								(together with Innovation Chain Coin.com, the “Parties” and each a “Party”).
-								By using the Innovation Chain Coin.com website (the “Site”) and any services
+								(together with Trust Chain Coin.com, the “Parties” and each a “Party”).
+								By using the Trust Chain Coin.com website (the “Site”) and any services
 								available within the Site (collectively the “Services”), you
 								agree that you have read, understood, and accept all of the
 								terms and conditions contained herein (the "User Agreement"), as
@@ -55,7 +55,7 @@ function AgreementPage() {
 									Terms of Use
 								</a>
 								. We offer a wide range of Services, and additional terms may
-								apply. When you use a Innovation Chain Coin.co service, you will also be
+								apply. When you use a Trust Chain Coin.co service, you will also be
 								subject to the guidelines, terms, and agreements applicable to
 								that particular service (the "Service Terms"). If this User
 								Agreement is inconsistent with the Service Terms, the Service
@@ -113,7 +113,7 @@ function AgreementPage() {
 								2. Compliance with Applicable Law
 							</h2>
 							<p className="mt-2 ml-5 w-[80%]">
-								Your relationship with Innovation Chain Coin.co and use of any of the Services
+								Your relationship with Trust Chain Coin.co and use of any of the Services
 								may be subject to the laws, regulations, and rules of
 								governmental or regulatory authorities in your or our
 								jurisdiction (the “Applicable Law”). By entering into this User
@@ -142,7 +142,7 @@ function AgreementPage() {
 								You must keep secret all credentials associated with the
 								Services. You are solely responsible for managing and
 								maintaining the security of any information relating to such
-								credentials and agree that Innovation Chain Coin.co shall not be held
+								credentials and agree that Trust Chain Coin.co shall not be held
 								responsible (and you shall not hold us responsible) for any
 								unauthorized access to the Services or any resulting harm you
 								may suffer.
@@ -155,7 +155,7 @@ function AgreementPage() {
 								Your access to one or more Services may be contingent upon
 								creating a user account and satisfying our onboarding processes
 								as well as our Compliance Program. “Compliance Program” means
-								the requirements set by Innovation Chain Coin.co for collecting, verifying,
+								the requirements set by Trust Chain Coin.co for collecting, verifying,
 								recording and reporting information about you, upon first
 								accessing certain Services and on an ongoing basis, whether for
 								our business risk-management purposes or to comply with legal
@@ -178,9 +178,9 @@ function AgreementPage() {
 								3.4 Communications.
 							</h4>
 							<p className="mt-2 ml-5 w-[80%]">
-								Any and all communications from Innovation Chain Coin.co may be provided to
+								Any and all communications from Trust Chain Coin.co may be provided to
 								you via electronic mail at the address you provided when
-								accessing the Services. Innovation Chain Coin.co shall not be responsible for
+								accessing the Services. Trust Chain Coin.co shall not be responsible for
 								any harm you may suffer as a result of your failure to receive
 								any notice provided to you in connection with this User
 								Agreement or your use of Services so long as such notice is
@@ -250,7 +250,7 @@ function AgreementPage() {
 								<span className="font-bold">5.1.1</span> Unless otherwise
 								indicated by us, all intellectual property rights and any
 								content provided in connection with the Site or the Services,
-								are the property of Innovation Chain Coin.co or our licensors or suppliers and
+								are the property of Trust Chain Coin.co or our licensors or suppliers and
 								are protected by applicable intellectual property laws. We do
 								not give any implied license for the use of the contents of the
 								Site or the Services.
@@ -273,7 +273,7 @@ function AgreementPage() {
 								to retain all copyrighted and other proprietary notices
 								contained in the material provided via the Site or the Services
 								on any copy you make of the material but failing to do so shall
-								not prejudice Innovation Chain Coin.co’s intellectual property rights therein.
+								not prejudice Trust Chain Coin.co’s intellectual property rights therein.
 							</p>
 
 							<p className="mt-2 ml-5 w-[80%]">
@@ -291,7 +291,7 @@ function AgreementPage() {
 							<p className="mt-2 ml-5 w-[80%]">
 								<span className="font-bold">5.1.5</span> Any rights not
 								expressly granted herein to use the materials contained on or
-								through the Site or the Services are reserved by Innovation Chain Coin.co in
+								through the Site or the Services are reserved by Trust Chain Coin.co in
 								full.
 							</p>
 
@@ -299,7 +299,7 @@ function AgreementPage() {
 								5.2 Accuracy of Information.
 							</h4>
 							<p className="mt-2 ml-5 w-[80%]">
-								Innovation Chain Coin.co endeavors to verify the accuracy of any information
+								Trust Chain Coin.co endeavors to verify the accuracy of any information
 								displayed, supplied, passing through or originating from the
 								Services, but such information may not always be accurate or
 								current. Accordingly, you should independently verify all
@@ -339,7 +339,7 @@ function AgreementPage() {
 								of Liability
 							</h2>
 							<h4 className="text-clr-main-bright font-semibold text-lg ml-2">
-								6.1 Acceptable Use of Innovation Chain Coin.co Services.
+								6.1 Acceptable Use of Trust Chain Coin.co Services.
 							</h4>
 							<p className="mt-2 ml-5 w-[80%]">
 								When accessing or using the Services, you agree that you are
@@ -456,7 +456,7 @@ function AgreementPage() {
 								6.4 Indemnification.
 							</h4>
 							<p className="mt-2 ml-5 w-[80%]">
-								You agree to indemnify and hold harmless Innovation Chain Coin.co, its
+								You agree to indemnify and hold harmless Trust Chain Coin.co, its
 								affiliates, subsidiaries, directors, managers, members,
 								officers, and employees from any and all claims, demands,
 								actions, damages, losses, costs or expenses, including without
@@ -467,7 +467,7 @@ function AgreementPage() {
 								relied upon by us to verify your identity and source of funds,
 								where applicable; or (e) violation of any rights of any other
 								person or entity; provided however, that you shall not indemnify
-								Innovation Chain Coin.co for claims or losses arising out of Innovation Chain Coin.co’s
+								Trust Chain Coin.co for claims or losses arising out of Trust Chain Coin.co’s
 								gross negligence or willful misconduct. This indemnity shall
 								apply to your successors and assigns and shall survive any
 								termination or cancellation of this User Agreement.
@@ -492,10 +492,10 @@ function AgreementPage() {
 							</h4>
 							<p className="mt-2 ml-5 w-[80%]">
 								If by reason in whole or in part of any Force Majeure Event,
-								either you or Innovation Chain Coin.co is delayed or prevented from complying
+								either you or Trust Chain Coin.co is delayed or prevented from complying
 								with this User Agreement, then such delay or non-compliance
 								shall not be deemed to be a breach of this User Agreement and no
-								loss or damage shall be claimed by you or Innovation Chain Coin.co by reason
+								loss or damage shall be claimed by you or Trust Chain Coin.co by reason
 								thereof. “Force Majeure Event” means any event beyond the
 								party’s reasonable control, including, but not limited to,
 								pandemic, flood, extraordinary weather conditions, earthquake,
@@ -512,7 +512,7 @@ function AgreementPage() {
 								It is your responsibility to determine what, if any, taxes apply
 								due to your use of the Services, and it is your responsibility
 								to report and remit the correct tax to the appropriate tax
-								authority. Innovation Chain Coin.co is not responsible for determining whether
+								authority. Trust Chain Coin.co is not responsible for determining whether
 								taxes apply to your use of the Services or for collecting,
 								reporting, withholding, or remitting any taxes arising from any
 								virtual currency transactions.
@@ -540,8 +540,8 @@ function AgreementPage() {
 								This User Agreement shall be binding on your successors, heirs,
 								personal representatives, and assigns. You may not assign or
 								transfer any of your rights or obligations under this User
-								Agreement without prior written consent of Innovation Chain Coin.co, which may
-								be withheld in Innovation Chain Coin.co’s sole discretion. We may assign
+								Agreement without prior written consent of Trust Chain Coin.co, which may
+								be withheld in Trust Chain Coin.co’s sole discretion. We may assign
 								rights or delegate duties under this User Agreement in our sole
 								discretion.
 							</p>
@@ -552,7 +552,7 @@ function AgreementPage() {
 							<p className="mt-2 ml-5 w-[80%]">
 								Nothing in this User Agreement is intended to, nor shall create
 								any partnership, joint venture, agency, consultancy or
-								trusteeship. You and Innovation Chain Coin.co are independent contractors for
+								trusteeship. You and Trust Chain Coin.co are independent contractors for
 								purposes of this User Agreement.
 							</p>
 
@@ -564,7 +564,7 @@ function AgreementPage() {
 								Parties with respect to the subject matter described herein and
 								shall supersede all prior agreements and understandings, written
 								or oral, among the Parties. Subsequent discussions or
-								negotiations between you and Innovation Chain Coin.co or Innovation Chain Coin.co personnel
+								negotiations between you and Trust Chain Coin.co or Trust Chain Coin.co personnel
 								shall only amend or become part of this User Agreement by way of
 								a written amendment specifically referencing the last updated
 								date and name of this User Agreement.
@@ -574,7 +574,7 @@ function AgreementPage() {
 								7.7 Contact Information.
 							</h4>
 							<p className="mt-2 ml-5 w-[80%]">
-								You may contact Innovation Chain Coin.co via email at support@innovationchain.co.
+								You may contact Trust Chain Coin.co via email at support@innovationchain.co.
 							</p>
 						</div>
 
@@ -603,7 +603,7 @@ function AgreementPage() {
 								9. Feedback
 							</h2>
 							<p className="mt-2 ml-5 w-[80%]">
-								Innovation Chain Coin.co strives to improve its Services to address feedback.
+								Trust Chain Coin.co strives to improve its Services to address feedback.
 								If you have ideas or suggestions regarding improvements or
 								additions to the Services, we would like to hear them; however,
 								any submission shall be subject to this User Agreement.
@@ -611,11 +611,11 @@ function AgreementPage() {
 
 							<p className="mt-2 ml-5 w-[80%]">
 								Under no circumstances shall disclosure of any idea or feedback,
-								or any related material to Innovation Chain Coin.co be subject to any
+								or any related material to Trust Chain Coin.co be subject to any
 								obligation of confidentiality or expectation of compensation. By
 								submitting an idea or feedback or any related material that
 								would be subject to intellectual property rights (the Work) to
-								Innovation Chain Coin.co, you grant to Innovation Chain Coin.co, with respect to the Work
+								Trust Chain Coin.co, you grant to Trust Chain Coin.co, with respect to the Work
 								submitted, a non-exclusive, perpetual, global, royalty-free
 								license to use all of the content of such ideas and feedback,
 								for any purpose whatsoever.
@@ -624,13 +624,13 @@ function AgreementPage() {
 							<p className="mt-2 ml-5 w-[80%]">
 								By submitting Work, you are waiving any moral rights to the
 								fullest extent permitted under law that you may have in the Work
-								and are representing and warranting to Innovation Chain Coin.co that the Work
+								and are representing and warranting to Trust Chain Coin.co that the Work
 								originated with you, no one else has any rights in the Work, and
-								that Innovation Chain Coin.co is free of any royalty to implement the Work and
+								that Trust Chain Coin.co is free of any royalty to implement the Work and
 								to use the related material if so desired, as provided or
-								modified by Innovation Chain Coin.co, without obtaining permission or license
+								modified by Trust Chain Coin.co, without obtaining permission or license
 								from any third party. We may sub-license in any way all Work and
-								material you have submitted to Innovation Chain Coin.co.
+								material you have submitted to Trust Chain Coin.co.
 							</p>
 						</div>
 					</div>

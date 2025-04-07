@@ -124,7 +124,7 @@ function InvestForm() {
 			// check the required Amount
 			if (parseFloat(requiredTolAmount) < 100) {
 				toast.error(
-					"The required coins of Innovation Chain Coin are low, please order 100 or more",
+					"The required coins of Trust Chain Coin are low, please order 100 or more",
 					{
 						position: "top-left",
 					}
@@ -262,7 +262,7 @@ function InvestForm() {
 			// check the required Amount
 			if (parseFloat(requiredTolAmount) < 100) {
 				toast.error(
-					"The required coins of Innovation Chain Coin are low, please order 100 or more",
+					"The required coins of Trust Chain Coin are low, please order 100 or more",
 					{
 						position: "top-left",
 					}
@@ -581,7 +581,7 @@ function InvestForm() {
 			{/* box */}
 			<div className="S-950:col-span-5 col-span-12 S-950:w-full sm:w-1/2 w-4/5 mx-auto border border-clr-secondary-bright rounded-3xl flex flex-col space-y-2 p-5">
 				<div className="flex flex-row items-center justify-between">
-					<span className="font-semibold text-lg leading-7 ">To Innovation Chain :</span>
+					<span className="font-semibold text-lg leading-7 ">To Trust Chain :</span>
 					<span className="text-clr-main-bright">
 						<img
 							className="-ml-4 sm:w-16 w-16 sm:h-12 h-12"
@@ -601,7 +601,7 @@ function InvestForm() {
 						onChange={handleChange}
 					/>
 					<p className="text-clr-main-bright text-sm font-medium tracking-wider pt-1">
-						1 Innovation Chain = 1 USD
+						1 Trust Chain = 1 USD
 					</p>
 				</div>
 			</div>

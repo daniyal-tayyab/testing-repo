@@ -18,10 +18,10 @@ function BenefitsSection() {
 					<div className="md:hidden block col-span-1"></div>
 					<div className="md:col-span-6 col-span-10 flex flex-col items-start space-y-14 md:mb-0 mb-10">
 						<h1 className="S-xl:text-[105px] md:text-[80px] text-6xl font-bold  capitalize text-clr-off-white ">
-							Benefits of Innovation Chain
+							Benefits of Trust Chain
 						</h1>
 						<p className="S-xl:text-4xl lg:text-3xl md:text-2xl text-xl w-4/5 font-normal text-clr-off-white ">
-							The ethos of Innovation Chain that truly makes it the next-gen solution for
+							The ethos of Trust Chain that truly makes it the next-gen solution for
 							all.
 						</p>
 					</div>

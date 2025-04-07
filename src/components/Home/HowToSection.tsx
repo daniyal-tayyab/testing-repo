@@ -20,17 +20,17 @@ function HowToSection() {
 				{/* row */}
 				<div className="flex flex-row items-start justify-between space-x-10" style={{width: '100%'}}>
 					{/* <div className="md:flex hidden md:items-center md:justify-center ">
-						<img className="w-10/12" src={bg_howTo} alt="Innovation Chain Coin" />
+						<img className="w-10/12" src={bg_howTo} alt="Trust Chain Coin" />
 					</div> */}
 					<div className="flex flex-col md:items-start items-center md:justify-start justify-center  space-y-3 relative ">
 						<h3 className="S-xl:text-3xl lg:text-2xl md:text-2xl text-3xl text-center font-bold md:ml-16 ml-0 text-clr-secondary-bright">
 							Unlock True Next-Gen Potential
 						</h3>
 						<h1 className="S-xl:text-7xl lg:text-6xl md:text-5xl text-6xl md:text-start text-center font-bold md:ml-16 ml-0 md:w-[80%] w-full">
-							How To use Innovation Chain
+							How To use Trust Chain
 						</h1>
 						<p className="S-xl:text-xl lg:text-lg md:text-sm text-base font-normal w-3/5 md:pt-4 md:ml-16 ml-0">
-							Use our exchange referral links and unlock Innovation Chain.
+							Use our exchange referral links and unlock Trust Chain.
 						</p>
 					</div>
 				</div>
@@ -42,9 +42,9 @@ function HowToSection() {
 							1
 						</span>
 						<span className="text-lg lg:w-1/2 md:w-3/5 w-1/2 mx-auto flex flex-col">
-							<span className="font-semibold text-xl">Create a Innovation Chain Wallet</span>
+							<span className="font-semibold text-xl">Create a Trust Chain Wallet</span>
 							<span>
-								Start by setting up a Innovation Chain wallet to store your Innovation Chain tokens
+								Start by setting up a Trust Chain wallet to store your Trust Chain tokens
 								securely.
 							</span>
 						</span>
@@ -55,8 +55,8 @@ function HowToSection() {
 							2
 						</span>
 						<span className="text-lg lg:w-1/2 md:w-3/5 w-1/2 mx-auto flex flex-col">
-							<span className="font-semibold text-xl">Obtain Innovation Chain Tokens</span>
-							<span>You can purchase Innovation Chain tokens via the Innovation Chain exchange.</span>
+							<span className="font-semibold text-xl">Obtain Trust Chain Tokens</span>
+							<span>You can purchase Trust Chain tokens via the Trust Chain exchange.</span>
 						</span>
 					</div>
 					{/* col */}
@@ -65,9 +65,9 @@ function HowToSection() {
 							3
 						</span>
 						<span className="text-lg lg:w-1/2 md:w-3/5 w-1/2 mx-auto flex flex-col">
-							<span className="font-semibold text-xl">Managing Innovation Chain</span>
+							<span className="font-semibold text-xl">Managing Trust Chain</span>
 							<span>
-								Use your Innovation Chain wallet to keep track of your Innovation Chain token balance and
+								Use your Trust Chain wallet to keep track of your Trust Chain token balance and
 								transaction history.
 							</span>
 						</span>

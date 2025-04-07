@@ -36,7 +36,7 @@ function FAQsPage() {
 								1 - What is InnovationChain?
 							</h2>
 							<p className="mt-2 ml-5 w-[80%]">
-								Innovation Chain Coin is a next-gen global digital currency that is set to
+								Trust Chain Coin is a next-gen global digital currency that is set to
 								transform the way we transact.
 							</p>
 						</div>
@@ -90,7 +90,7 @@ function FAQsPage() {
 								To connect MetaMask to your account, first you’ll need to open
 								the MetaMask app, then you’ll click on “Connect a Wallet '' and
 								follow the prompted procedures to connect your wallet and to buy
-								Innovation Chain Coin.
+								Trust Chain Coin.
 							</p>
 							<p className="mt-2 ml-5 w-[80%]">
 								For more detailed information, check out this video
@@ -106,13 +106,13 @@ function FAQsPage() {
 						{/* sub section */}
 						<div className="flex flex-col space-y-2">
 							<h2 className="text-clr-secondary-bright font-semibold text-xl">
-								6 - What is the procedure of buying Innovation Chain?
+								6 - What is the procedure of buying Trust Chain?
 							</h2>
 							<p className="mt-2 ml-5 w-[80%]">
-								To buy Innovation Chain via the website, first you’ll need to create an
+								To buy Trust Chain via the website, first you’ll need to create an
 								account which you can do by signing up. After you have
 								successfully signed up, click on “Invest Now” and then follow
-								the prompted procedures to buy Innovation Chain Coin.
+								the prompted procedures to buy Trust Chain Coin.
 							</p>
 
 							<p className="mt-2 ml-5 w-[80%]">
@@ -130,10 +130,10 @@ function FAQsPage() {
 						{/* sub section */}
 						<div className="flex flex-col space-y-2">
 							<h2 className="text-clr-secondary-bright font-semibold text-xl">
-								7 - How can I buy Innovation Chain Coin via mobile?
+								7 - How can I buy Trust Chain Coin via mobile?
 							</h2>
 							<p className="mt-2 ml-5 w-[80%]">
-								To buy Innovation Chain Coin via mobile, you’ll need to:
+								To buy Trust Chain Coin via mobile, you’ll need to:
 							</p>
 							<ul className="ml-14 list-outside list-disc ">
 								<li>Download the MetaMask app, </li>
@@ -152,22 +152,22 @@ function FAQsPage() {
 									</a>{" "}
 								</li>
 								<li>Click on “Invest Now”</li>
-								<li>Swap BUSD for Innovation Chain </li>
+								<li>Swap BUSD for Trust Chain </li>
 							</ul>
 
 							<p className="mt-2 ml-5 w-[80%]">
 								Wait for a few seconds as the transaction is processed and
-								Innovation Chain Coin is transferred to your wallet.
+								Trust Chain Coin is transferred to your wallet.
 							</p>
 						</div>
 
 						{/* sub section */}
 						<div className="flex flex-col space-y-2">
 							<h2 className="text-clr-secondary-bright font-semibold text-xl">
-								8 - How can I learn more about Innovation Chain?
+								8 - How can I learn more about Trust Chain?
 							</h2>
 							<p className="mt-2 ml-5 w-[80%]">
-								You can get more information regarding Innovation Chain Coin on Innovation Chain
+								You can get more information regarding Trust Chain Coin on Trust Chain
 								blogs
 								<a
 									className="ml-2 text-clr-main-bright"

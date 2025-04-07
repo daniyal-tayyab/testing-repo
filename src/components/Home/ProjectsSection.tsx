@@ -51,7 +51,7 @@ function ProjectsSection() {
 				<p className="S-550:text-xl text-lg font-normal text-clr-off-white w-3/5 mx-auto">
 					The ecosystem aims to offer a secure, convenient and user-friendly
 					payment solution to our customers across the globe. To achieve this
-					goal, the Innovation Chain ecosystem includes a range of features and services
+					goal, the Trust Chain ecosystem includes a range of features and services
 				</p>
 				<motion.div
 					className="grid lg:grid-cols-4 md:grid-cols-3 S-550:grid-cols-2 grid-cols-1 lg:gap-8 md:gap-6 gap-12 pt-16"

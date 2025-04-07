@@ -9,7 +9,7 @@ function ProjectsHero() {
 			<img
 				className="absolute -z-250 top-0 left-0 md:h-screen h-auto w-full opacity-50"
 				src={bg_OurProjects}
-				alt="Innovation Chain"
+				alt="Trust Chain"
 			/>
 			{/* bolb */}
 			<div
@@ -21,8 +21,8 @@ function ProjectsHero() {
 				<div className="flex flex-col items-center justify-center text-center space-y-12">
 					<h1 className="font-bold text-7xl">Our Projects</h1>
 					<p className="w-8/12 text-2xl">
-						The Innovation Chain ecosystem aims to offer a secure, convenient, and
-						user-friendly payment solution to the world. Innovation Chain includes a range of
+						The Trust Chain ecosystem aims to offer a secure, convenient, and
+						user-friendly payment solution to the world. Trust Chain includes a range of
 						features and services through its rich, multi-functional ecosystem.
 					</p>
 				</div>

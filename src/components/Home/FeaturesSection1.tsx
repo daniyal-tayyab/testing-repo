@@ -23,9 +23,9 @@ function FeaturesSection1() {
 							Our Features
 						</h1>
 						<p className="S-xl:text-2xl lg:text-lg text-base font-normal w-4/5 md:pt-4 S-xl:ml-40 lg:ml-14">
-							Innovation Chain is a multi-utility cryptocurrency, offering a range of
+							Trust Chain is a multi-utility cryptocurrency, offering a range of
 							features that prioritize security, privacy, and user experience.
-							here are some key aspects of Innovation Chain.
+							here are some key aspects of Trust Chain.
 						</p>
 						<div className="flex flex-row items-center space-x-4 S-xl:ml-40 lg:ml-14">
 							<button
@@ -43,7 +43,7 @@ function FeaturesSection1() {
 						<img
 							className="S-xl:w-4/6 lg:w-3/6 md:w-[300px] lg:flex hidden absolute S-xl:left-16 lg:left-10 md:left-40 left-0"
 							src={coin_branchs}
-							alt="Innovation Chain Coin"
+							alt="Trust Chain Coin"
 						/>
 						<div className="flex lg:flex-col sm:flex-row flex-col S-xl:space-y-16 lg:space-y-10 sm:space-x-10 space-y-5 items-center justify-center relative">
 							{features.map((item : any) => {

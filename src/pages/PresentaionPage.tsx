@@ -28,7 +28,7 @@ function PresentaionPage() {
 			<img
 				className="absolute -z-10 top-0 left-0 h-screen w-full opacity-50"
 				src={base}
-				alt="Innovation Chain"
+				alt="Trust Chain"
 			/>
 			<div className="w-11/12 mx-auto flex items-center justify-center h-full">
 				<Swiper

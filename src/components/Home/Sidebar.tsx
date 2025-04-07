@@ -40,7 +40,7 @@ function Sidebar() {
 							className="h-11 justify-self-center"
 						/>
 						<span className="text-clr-main-bright text-xl font-Ubuntu font-normal">
-							Innovation Chain
+							Trust Chain
 						</span>
 					</Link>
 					<button

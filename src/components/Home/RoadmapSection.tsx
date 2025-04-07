@@ -43,7 +43,7 @@ function RoadmapSection() {
 			<img
 				className="absolute -z-500 top-0 left-0 md:h-screen h-auto w-full opacity-50"
 				src={base}
-				alt="Innovation Chain"
+				alt="Trust Chain"
 			/>
 			<div className="mx-auto md:my-0 my-16 lg:max-w-max-custom max-w-max-width w-90vw">
 				<div className="flex flex-col items-center justify-center">
@@ -51,7 +51,7 @@ function RoadmapSection() {
 						Sustainable Finance
 					</h3>
 					<h1 className="S-xl:text-8xl lg:text-7xl md:text-5xl sm:text-7xl text-4xl  font-bold md:ml-40 ml-0">
-						Innovation Chain
+						Trust Chain
 					</h1>
 				</div>
 				<div className="w-full grid grid-cols-12 md:gap-4 gap-10">
@@ -83,16 +83,16 @@ function RoadmapSection() {
 							<img
 								className="absolute -z-500 top-0 right-0 h-[400px] opacity-50 sm:block hidden"
 								src={bLine}
-								alt="Innovation Chain"
+								alt="Trust Chain"
 							/>
 							{/* Phase 1 */}
 							<SwiperSlide className="flex flex-col items-center justify-center w-full h-auto">
 								<p className="flex flex-col space-y-5 w-10/12 mx-auto h-full items-center justify-center S-550:text-2xl text-lg">
 									<span className="font-bold pb-2 tracking-wider underline">
-										Phase 1- Q3 2023- Innovation Chain Staking App
+										Phase 1- Q3 2023- Trust Chain Staking App
 									</span>
 									<span>
-										The launch of Innovation Chain Staking on the website, and Innovation Chain Staking
+										The launch of Trust Chain Staking on the website, and Trust Chain Staking
 										app on iOS and Android.
 									</span>
 								</p>
@@ -104,7 +104,7 @@ function RoadmapSection() {
 										Phase 2- Q3 2023- Exchange Listing and Liquidity Enhancement
 									</span>
 									<span>
-										Listing Innovation Chain Coin on decentralized exchanges (DEX) and
+										Listing Trust Chain Coin on decentralized exchanges (DEX) and
 										centralized exchanges (CEX) to improve liquidity and
 										accessibility.
 									</span>
@@ -117,7 +117,7 @@ function RoadmapSection() {
 										Phase 3- Q4 2023- Blockchain Enhancement
 									</span>
 									<span>
-										Launching Innovation Chain's independent blockchain to create a separate
+										Launching Trust Chain's independent blockchain to create a separate
 										network, aiming to provide improved scalability and
 										security.
 									</span>
@@ -131,7 +131,7 @@ function RoadmapSection() {
 									</span>
 									<span>
 										Establishing and launching the centralized exchange via the
-										Innovation Chain.
+										Trust Chain.
 									</span>
 								</p>
 							</SwiperSlide>
@@ -139,10 +139,10 @@ function RoadmapSection() {
 							<SwiperSlide className="flex flex-col items-center justify-center w-full h-auto">
 								<p className="flex flex-col space-y-5 w-10/12 mx-auto h-full items-center justify-center S-550:text-2xl text-lg">
 									<span className="font-bold pb-2 tracking-wider underline">
-										Phase 5- Q4 2023 Diversifying the Innovation Chain Ecosystem
+										Phase 5- Q4 2023 Diversifying the Trust Chain Ecosystem
 									</span>
 									<span>
-										Integrating Innovation Chain Coin with Innovation Chain ecosystem domains including
+										Integrating Trust Chain Coin with Trust Chain ecosystem domains including
 										government services, travel, healthcare, insurance,
 										financial and banking, and more.
 									</span>
@@ -154,7 +154,7 @@ function RoadmapSection() {
 									<span className="font-bold pb-2 tracking-wider underline">
 										Phase 6- Q1 2024- DEX and Release of Decentralized Wallet
 									</span>
-									Listing Innovation Chain Coin on decentralized exchanges (DEX) to enhance
+									Listing Trust Chain Coin on decentralized exchanges (DEX) to enhance
 									the availability and ease of accessing funds.
 								</p>
 							</SwiperSlide>
@@ -164,7 +164,7 @@ function RoadmapSection() {
 									<span className="font-bold pb-2 tracking-wider underline">
 										Phase 7- Q2 2024: DEX Wallet Integration
 									</span>
-									Innovation Chain Coin DEX wallet integration which will enable convenient
+									Trust Chain Coin DEX wallet integration which will enable convenient
 									and secure cryptocurrency transactions.
 								</p>
 							</SwiperSlide>
@@ -176,7 +176,7 @@ function RoadmapSection() {
 									</span>
 									Focusing on global expansion by establishing strategic
 									partnerships with businesses, governments, and organizations
-									worldwide to promote Innovation Chain's adoption and utilization across
+									worldwide to promote Trust Chain's adoption and utilization across
 									industries.
 								</p>
 							</SwiperSlide>

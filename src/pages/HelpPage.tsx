@@ -50,9 +50,9 @@ function HelpPage() {
 							Introduction :
 						</h1> */}
 						<p className="mt-2 w-[75%] font-semibold text-lg">
-							Welcome to Innovation Chain Coin! This user manual will guide you through the
+							Welcome to Trust Chain Coin! This user manual will guide you through the
 							process of signing up, navigating the platform, and utilizing its
-							features. Innovation Chain Coin offers a secure and user-friendly environment
+							features. Trust Chain Coin offers a secure and user-friendly environment
 							for cryptocurrency enthusiasts. Let's get started!
 						</p>
 					</div>
@@ -67,10 +67,10 @@ function HelpPage() {
 								Signing Up
 							</h2>
 							<p className="mt-2 ml-5 w-[75%]">
-								To create a Innovation Chain account, follow these steps:
+								To create a Trust Chain account, follow these steps:
 							</p>
 							<ul className="ml-14 list-outside list-disc ">
-								<li>Visit the Innovation Chain Coin website.</li>
+								<li>Visit the Trust Chain Coin website.</li>
 								<li>Click on the "Sign Up" button.</li>
 								<li>
 									Fill in the required information, including username, email
@@ -98,11 +98,11 @@ function HelpPage() {
 								Logging In
 							</h2>
 							<p className="mt-2 ml-5 w-[75%]">
-								If you already have a Innovation Chain Coin account, follow these steps to log
+								If you already have a Trust Chain Coin account, follow these steps to log
 								in:
 							</p>
 							<ul className="ml-14 list-outside list-disc ">
-								<li>Visit the Innovation Chain website.</li>
+								<li>Visit the Trust Chain website.</li>
 								<li>Click on the "Login" button.</li>
 								<li>Enter your username and password.</li>
 								<li>Click on the "Login" button to access your account.</li>
@@ -111,12 +111,12 @@ function HelpPage() {
 									verification code. Enter your OTP to verify your account.
 								</li>
 								<li>
-									Once verified, you will be able to access your Innovation Chain Coin
+									Once verified, you will be able to access your Trust Chain Coin
 									account.{" "}
 								</li>
 							</ul>
 							<p className="mt-2 ml-5 w-[75%] font-semibold text-lg">
-								NOTE: When you attempt to login to Innovation Chain Coin at any time, you will
+								NOTE: When you attempt to login to Trust Chain Coin at any time, you will
 								be receiving an OTP to your email.
 							</p>
 						</div>
@@ -155,7 +155,7 @@ function HelpPage() {
 							</h2>
 							<p className="mt-2 ml-5 w-[75%]">
 								In the dashboard, you can find your unique referral code. Share
-								this code and invite others to earn rewards through the Innovation Chain Coin
+								this code and invite others to earn rewards through the Trust Chain Coin
 								referral program.
 							</p>
 						</div>
@@ -165,7 +165,7 @@ function HelpPage() {
 								Staking Levels
 							</h2>
 							<p className="mt-2 ml-5 w-[75%]">
-								Innovation Chain Coin offers different staking levels. In the dashboard, you
+								Trust Chain Coin offers different staking levels. In the dashboard, you
 								can choose the staking level that suits your investment
 								preferences and goals.
 							</p>
@@ -196,7 +196,7 @@ function HelpPage() {
 					{/* section */}
 					<div className="flex flex-col text-clr-off-white space-y-8">
 						<h1 className="text-clr-main-bright text-3xl font-bold">
-							Investing in Innovation Chain
+							Investing in Trust Chain
 						</h1>
 						{/* sub section */}
 						<div className="flex flex-col space-y-2">
@@ -204,12 +204,12 @@ function HelpPage() {
 								Investment Process
 							</h2>
 							<p className="mt-2 ml-5 w-[75%]">
-								To invest in Innovation Chain, follow these steps:
+								To invest in Trust Chain, follow these steps:
 							</p>
 							<ul className="ml-14 list-outside list-disc ">
 								<li>Click on the "Invest" button in the dashboard.</li>
 								<li>
-									Connect your preferred wallet (e.g., MetaMask) to the innovation Chain
+									Connect your preferred wallet (e.g., MetaMask) to the Trust Chain
 									platform.
 								</li>
 							</ul>
@@ -220,7 +220,7 @@ function HelpPage() {
 								Selecting the Currency
 							</h2>
 							<p className="mt-2 ml-5 w-[75%]">
-								Choose the currency you want to convert into Innovation Chains coin. The
+								Choose the currency you want to convert into Trust Chains coin. The
 								platform supports various cryptocurrencies and fiat currencies.
 							</p>
 						</div>
@@ -230,7 +230,7 @@ function HelpPage() {
 								Purchasing Innovatin Chain coin
 							</h2>
 							<p className="mt-2 ml-5 w-[75%]">
-								Enter the amount of Innovation Chain you wish to purchase. The platform
+								Enter the amount of Trust Chain you wish to purchase. The platform
 								will display the current conversion rate and the equivalent
 								amount in USD.
 							</p>
@@ -258,7 +258,7 @@ function HelpPage() {
 								Keeping Your Account Secure
 							</h2>
 							<p className="mt-2 ml-5 w-[75%]">
-								To ensure the security of your Innovation Chain Coin account, follow these
+								To ensure the security of your Trust Chain Coin account, follow these
 								best practices:
 							</p>
 							<ul className="ml-14 list-outside list-disc ">
@@ -274,8 +274,8 @@ function HelpPage() {
 								Privacy Policy
 							</h2>
 							<p className="mt-2 ml-5 w-[75%]">
-								For detailed information about how Innovation Chain Coin handles user data and
-								ensures privacy, refer to the Privacy Policy on the Innovation Chain Coin
+								For detailed information about how Trust Chain Coin handles user data and
+								ensures privacy, refer to the Privacy Policy on the Trust Chain Coin
 								website.
 							</p>
 						</div>
@@ -292,7 +292,7 @@ function HelpPage() {
 							</h2>
 							<p className="mt-2 ml-5 w-[75%]">
 								If you have any questions or need assistance, visit the FAQs
-								section on the Innovation Chain Coin website. Here, you can find answers to
+								section on the Trust Chain Coin website. Here, you can find answers to
 								common queries.
 							</p>
 						</div>
@@ -302,7 +302,7 @@ function HelpPage() {
 								Contacting Customer Support
 							</h2>
 							<p className="mt-2 ml-5 w-[75%]">
-								For personalized support, contact the Innovation Chain Coin customer support
+								For personalized support, contact the Trust Chain Coin customer support
 								team. You can reach out via email or through the contact form
 								provided on the website.
 							</p>
@@ -315,10 +315,10 @@ function HelpPage() {
 						</h1> */}
 						<p className="mt-2 w-[75%] font-semibold text-lg">
 							Congratulations! We hope this guide has provided you with the
-							necessary information to navigate the platform, invest in Innovation Chain Coin,
+							necessary information to navigate the platform, invest in Trust Chain Coin,
 							and ensure the security of your account. Should you require
 							further assistance, our support team is ready to help. Happy
-							investing with Innovation Chain Coin!
+							investing with Trust Chain Coin!
 						</p>
 					</div>
 				</div>

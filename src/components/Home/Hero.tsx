@@ -40,10 +40,10 @@ function Hero() {
 					{/* items-center */}
 					<div className="flex flex-col md:items-start md:justify-start justify-center items-center md:space-y-10 space-y-10 mt-14">
 						<h3 className="S-xl:text-4xl lg:text-3xl md:text-3xl text-3xl font-bold">
-							Innovation Chain
+							Trust Chain
 						</h3>
 						<h1 className="S-xl:text-7xl lg:text-6xl md:text-5xl text-5xl md:text-start text-center font-bold">
-							Grow the future with Innovation Chain.
+							Grow the future with Trust Chain.
 						</h1>
 						<div className="flex sm:flex-row sm:space-y-0 space-y-3 flex-col items-center space-x-4 pt-10">
 							<button
@@ -74,7 +74,7 @@ function Hero() {
 							//className="S-xl:w-10/12 lg:w-8/12 md:w-full w-1/5 animate-move-shake"
 							className="S-xl:w-9/12 lg:w-8/12 md:w-full w-1/5"
 							src={coin}
-							alt="Innovation Chain Coin"
+							alt="Trust Chain Coin"
 						/>
 					</div>
 				</div>

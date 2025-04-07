@@ -34,10 +34,10 @@ function Navbar() {
 						<img
 							className="-ml-4 sm:w-16 w-12 sm:h-16 h-12"
 							src={logo}
-							alt="Innovation Chain"
+							alt="Trust Chain"
 						/>
 						<span className="text-clr-main-bright text-xl font-Ubuntu font-normal">
-							Innovation Chain
+							Trust Chain
 						</span>
 					</Link>
 					<div className="hidden md:flex flex-row lg:space-x-8 space-x-4 items-center justify-center">

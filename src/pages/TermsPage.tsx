@@ -161,7 +161,7 @@ function TermsPage() {
 								Trademarks
 							</h2>
 							<p className="mt-2 ml-5 w-[80%]">
-								The Company name, the terms Innovation Chain Coin Switzerland, Innovation Chain Coin Asia,
+								The Company name, the terms Trust Chain Coin Switzerland, Trust Chain Coin Asia,
 								the Company logo and all related names, logos, product and
 								service names, designs and slogans are trademarks of the Company
 								or its affiliates or licensors. You must not use such marks

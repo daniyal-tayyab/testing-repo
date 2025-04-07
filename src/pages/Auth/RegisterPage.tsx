@@ -214,7 +214,7 @@ function RegisterPage() {
 							Sign Up
 						</h3>
 						<p className="S-xl:text-xl text-lg font-normal pt-4 ">
-							Already a Innovation Chain Coin user?
+							Already a Trust Chain Coin user?
 							<Link
 								to="/login"
 								className="text-clr-main-bright hover:border-b hover:border-clr-main-bright font-semibold S-xl:text-xl text-lg cursor-pointer"

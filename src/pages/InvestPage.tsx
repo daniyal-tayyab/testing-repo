@@ -32,10 +32,10 @@ function InvestPage() {
 						invest with us
 					</h1>
 					<h2 className="S-xl:text-5xl lg:text-4xl md:text-3xl text-2xl font-bold text-center capitalize S-xl:mb-4 mb-4 text-clr-main-bright">
-						Purchase your Innovation Chain here
+						Purchase your Trust Chain here
 					</h2>
 					<p className="S-xl:text-xl lg:text-lg text-base font-normal md:w-1/2 w-4/5 ">
-						Use your Innovation Chain wallet to keep track of your Innovation Chain Coin balance and
+						Use your Trust Chain wallet to keep track of your Trust Chain Coin balance and
 						transaction history.
 					</p>
 				</div>

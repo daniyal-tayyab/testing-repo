@@ -107,7 +107,7 @@ function ForgetPasswordPage() {
 						<img
 							className="S-xl:w-10/12 lg:w-8/12 md:w-full w-1/5 animate-move-shake"
 							src={coin}
-							alt="Innovation Chain Coin"
+							alt="Trust Chain Coin"
 						/>
 					</div>
 					<div className="flex flex-col lg:items-start items-center lg:justify-start justify-center space-y-4 relative lg:w-1/2 w-full">

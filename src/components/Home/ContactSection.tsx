@@ -21,7 +21,7 @@ function ContactSection() {
 						<img
 							className="animate-move-round"
 							src={bg_contact}
-							alt="Innovation Chain Coin"
+							alt="Trust Chain Coin"
 						/>
 					</div>
 					<div className="flex flex-col lg:items-start items-center lg:justify-start justify-center space-y-4 relative lg:w-1/2 w-full">

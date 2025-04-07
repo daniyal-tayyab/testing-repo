@@ -146,14 +146,14 @@ function PrivacyPage() {
 							</p>
 
 							<ul className="ml-14 list-outside list-disc ">
-								<li>Upon signing up for a Innovation Chain Coin account </li>
+								<li>Upon signing up for a Trust Chain Coin account </li>
 								<li>Account authentication</li>
 								<li>
 									When an OTP is sent to your email upon signing up or signing
 									in
 								</li>
 								<li>
-									If you have signed up for the Innovation Chain Coin newsletter with your
+									If you have signed up for the Trust Chain Coin newsletter with your
 									email address.{" "}
 								</li>
 							</ul>
@@ -222,7 +222,7 @@ function PrivacyPage() {
 								change your email address, or any of the other information we
 								hold is inaccurate or out of date, please email us at
 								support@innovationchain.co. You have the right to ask for a copy of the
-								information Innovation Chain Coin holds about you.
+								information Trust Chain Coin holds about you.
 							</p>
 						</div>
 

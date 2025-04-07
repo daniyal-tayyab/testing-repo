@@ -19,7 +19,7 @@ function AboutSection() {
 			<img
 				className="absolute -z-250 top-0 left-0 md:h-screen h-auto w-full opacity-50"
 				src={base}
-				alt="Innovation Chain"
+				alt="Trust Chain"
 			/>
 			{/* circle */}
 			<div className="absolute top-10 shadow-btn_shadow backdrop-blur-xl bg-clr-bg-btn-1 w-48 h-48 rounded-full"></div>
@@ -33,7 +33,7 @@ function AboutSection() {
 						<img
 							className="S-xl:w-full lg:w-11/12 md:w-full w-1/5"
 							src={ball}
-							alt="Innovation Chain Coin"
+							alt="Trust Chain Coin"
 						/>
 					</div>
 					<div className="flex flex-col md:items-start items-center md:justify-start justify-center S-xl:space-y-20 space-y-10 relative ">
@@ -41,14 +41,14 @@ function AboutSection() {
 							Some words about our
 						</h3> */}
 						<h1 className="S-xl:text-8xl lg:text-7xl md:text-5xl sm:text-7xl text-5xl font-bold lg:ml-40 ml-0">
-							Innovation Chain
+							Trust Chain
 						</h1>
 						<p className="S-xl:text-xl lg:text-lg sm:text-lg text-base font-normal md:w-3/5 w-10/12 md:pt-4 md:ml-40 ml-0 mx-auto">
-							The Innovation Chain is built upon robust and efficient distributed
+							The Trust Chain is built upon robust and efficient distributed
 							ledger technology. It incorporates key features such as
 							decentralization, immutability, and transparency to ensure the
 							integrity of transactions. By utilizing advanced cryptographic
-							algorithms, the Innovation Chain offers a secure and tamper-proof
+							algorithms, the Trust Chain offers a secure and tamper-proof
 							environment
 						</p>
 						{/* <p className="S-xl:text-xl lg:text-lg sm:text-base text-xs font-normal w-3/5 md:pt-4 md:ml-40 ml-0">

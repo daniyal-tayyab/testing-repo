@@ -105,7 +105,7 @@ export const footerLinks = [
 		options: [
 			{
 				id: "footer_col_1_1",
-				text: "Buy Innovation Chain",
+				text: "Buy Trust Chain",
 				href: "/invest",
 			},
 			{
@@ -246,7 +246,7 @@ export const projects = [
 		title: "CashCare",
 		color: "#479CCD",
 		content:
-			"Next-gen financial and banking facilities powered by Innovation Chain, featuring mortgages, lending/borrowing with Innovation Chain, and residency via investment.",
+			"Next-gen financial and banking facilities powered by Trust Chain, featuring mortgages, lending/borrowing with Trust Chain, and residency via investment.",
 		socials: [
 			{
 				id: "socialList_6_1",
@@ -321,7 +321,7 @@ export const projects = [
 		title: "Chain Homes",
 		color: "#00DBF9",
 		content:
-			"Disrupting traditional real estate, using next-gen solutions to list and invest in properties, transacting directly through Innovation Chain with the owner.",
+			"Disrupting traditional real estate, using next-gen solutions to list and invest in properties, transacting directly through Trust Chain with the owner.",
 		socials: [
 			{
 				id: "socialList_9_1",
@@ -371,7 +371,7 @@ export const projects = [
 		title: "Coin Pulse",
 		color: "#B31128",
 		content:
-			"A luxury experience through Innovation Chain specialized ATM kiosks globally, allowing users to convert between fiat and crypto, and debit/credit cards.",
+			"A luxury experience through Trust Chain specialized ATM kiosks globally, allowing users to convert between fiat and crypto, and debit/credit cards.",
 		socials: [
 			{
 				id: "socialList_9_1",
@@ -421,7 +421,7 @@ export const projects = [
 		title: "Excluvio",
 		color: "#F8DC65",
 		content:
-			"Premium services, experiences and amenities ranging from entertainment, Innovation Chain-exclusive networking events, social events, F & B and more.",
+			"Premium services, experiences and amenities ranging from entertainment, Trust Chain-exclusive networking events, social events, F & B and more.",
 		socials: [
 			{
 				id: "socialList_8_1",
@@ -446,7 +446,7 @@ export const projects = [
 		title: "Gamiverz",
 		color: "#F9D342",
 		content:
-			"Gamers and developers can transact through Innovation Chain to trade in-game assets while building a diverse gaming community.",
+			"Gamers and developers can transact through Trust Chain to trade in-game assets while building a diverse gaming community.",
 		socials: [
 			{
 				id: "socialList_9_1",
@@ -497,7 +497,7 @@ export const projects = [
 		title: "Lotto Luck",
 		color: "#F9C44A",
 		content:
-			"Raise the stakes the next-gen way. Purchase lotto’s through Innovation Chain and win a Innovation Chain jackpot, and interact with other players.",
+			"Raise the stakes the next-gen way. Purchase lotto’s through Trust Chain and win a Trust Chain jackpot, and interact with other players.",
 		socials: [
 			{
 				id: "socialList_9_1",
@@ -547,7 +547,7 @@ export const projects = [
 		title: "Bond Vortex",
 		color: "#FFF3B5",
 		content:
-			"Inclusivity and efficiency through crypto bonds driven by Innovation Chain, enabling governments, corporations and institutions to raise capital.",
+			"Inclusivity and efficiency through crypto bonds driven by Trust Chain, enabling governments, corporations and institutions to raise capital.",
 		socials: [
 			{
 				id: "socialList_9_1",
@@ -2088,7 +2088,7 @@ export const aboutContent = [
 				className="S-xl:text-[50px] lg:text-5xl md:text-4xl sm:text-3xl text-2xl font-bold leading-loose tracking-normal"
 				id="aboutText"
 			>
-				Experience True Power of the Innovation Chain -{" "}
+				Experience True Power of the Trust Chain -{" "}
 				<span className="text-clr-main-bright">Innovatin Chain</span>: Nurturing
 				Financial Growth Worldwide.
 			</p>
@@ -2102,7 +2102,7 @@ export const aboutContent = [
 				id="aboutText"
 			>
 				Branch Out to New Horizons with -{" "}
-				<span className="text-clr-main-bright">Innovation Chain</span>: Where
+				<span className="text-clr-main-bright">Trust Chain</span>: Where
 				Opportunities Blossom.
 			</p>
 		),
@@ -2115,7 +2115,7 @@ export const aboutContent = [
 				id="aboutText"
 			>
 				Experience the Strength and Resilience of -{" "}
-				<span className="text-clr-main-bright">Innovation Chain</span>: Where Value Grows
+				<span className="text-clr-main-bright">Trust Chain</span>: Where Value Grows
 				Stronger.
 			</p>
 		),
@@ -2129,7 +2129,7 @@ export const benefitsList = [
 			<FaAutoprefixer className="S-950:w-9 w-7 S-550:h-9 h-7 text-4xl font-bold text-clr-main-dark" />
 		),
 		title: "Autonomy",
-		text: "Innovation Chain Coin offers users total autonomy in financial transactions.",
+		text: "Trust Chain Coin offers users total autonomy in financial transactions.",
 	},
 	{
 		id: "bene_2",
@@ -2137,7 +2137,7 @@ export const benefitsList = [
 			<DiScala className="S-950:w-9 w-7 S-550:h-9 h-7 text-4xl font-bold text-clr-main-dark" />
 		),
 		title: "Improved Scalability",
-		text: "Innovation Chain Coin addresses scalability challenges and enables faster transactions.",
+		text: "Trust Chain Coin addresses scalability challenges and enables faster transactions.",
 	},
 	{
 		id: "bene_3",
@@ -2153,6 +2153,6 @@ export const benefitsList = [
 			<MdSecurity className="S-950:w-9 w-7 S-550:h-9 h-7 text-4xl font-bold text-clr-main-dark" />
 		),
 		title: "Security",
-		text: "Innovation Chain Coin employs robust security measures to protect transactions and user funds.",
+		text: "Trust Chain Coin employs robust security measures to protect transactions and user funds.",
 	},
 ];

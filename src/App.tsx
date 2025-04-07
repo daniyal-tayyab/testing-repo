@@ -178,8 +178,8 @@ function App() {
 			</Routes>
 			{/* <FloatingWhatsApp
 				phoneNumber="+33644650049"
-				accountName="Innovation Chain Coin Support"
-				chatMessage="Hello! Welcome to Innovation Chain Coin. Please let us know how we can assist you today."
+				accountName="Trust Chain Coin Support"
+				chatMessage="Hello! Welcome to Trust Chain Coin. Please let us know how we can assist you today."
 				style={{ color: "black" }}
 			/> */}
 			<Footer />
